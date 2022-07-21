@@ -1,0 +1,1 @@
+Play the game on [CodinGame](https://www.codingame.com/training/hard/sokoban)
